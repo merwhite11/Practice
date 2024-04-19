@@ -1,0 +1,13 @@
+.top {
+  background-color: paleturquoise;
+}
+.top > div {
+  border: 1px solid burlywood;
+}
+.bottom {
+  background-color: burlywood;
+}
+
+.bottom > div {
+  border: 1px solid paleturquoise;
+}
